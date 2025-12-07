@@ -72,8 +72,7 @@ Contributing
 License
 - Add an appropriate license file (e.g., MIT) to the repository to clarify reuse terms.
 
-Contact
-- Maintainer: Raji17-hub (update with email or GitHub profile link)
+
 
 Notes and improvements ideas
 - Add unit tests for validation, CSV storage, and blockchain simulation.
